@@ -7,6 +7,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
+- [MySql](https://www.mysql.com/)
+
+<p align="center">
+  <img alt="screen" src="./frontend/src/assets/screen.png" width="100%">
+</p>
 
 ## 💻 Projeto
 
